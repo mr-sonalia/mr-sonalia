@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://docs.google.com/document/d/1tlF579BJ-1orBawwig7kHkgoyvqzgvFix_B0W1duP8Q/edit?usp=sharing">resume</a> •
+    <a href="https://www.linkedin.com/in/yash-sonalia">linkedin</a> •
+    <a href="https://instagram.com/sonaliayash">instagram</a> •
+<!--     <a href="https://stackoverflow.com/users/14563463/yash-sonalia">stackoverflow</a> • -->
+    <a href="https://linktr.ee/sonaliayash">🌲</a>
+  </samp>
+</p>
 
-<!--
-**mr-sonalia/mr-sonalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, I'm Yash! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a full-stack engineer and tech lead at a fast-paced startup, with 1+ years of experience in Next.js, Typescript, Node.js, Microservices, AWS, and more!🔥
+
+
+Being a nerd, I can be found binging through TV shows and movies or scrolling through memes and as a laziness enthusiast, I always prefer staying home.💆🏼‍♂️
+
+PS: Read my resume to know more.
+
+![TonyStarkIronManGIF](https://github.com/mr-sonalia/mr-sonalia/assets/53109900/f5084a9c-ee4d-4021-8d75-6d1e468803a4)
+
+
+
