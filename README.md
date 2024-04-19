@@ -24,7 +24,7 @@ PS: Read my resume to discover some magic in your life. ✨
 
 ![TonyStarkIronManGIF](https://github.com/mr-sonalia/mr-sonalia/assets/53109900/f5084a9c-ee4d-4021-8d75-6d1e468803a4)
 
-
-<samp>🤙🏼 +91 704-402-0012 • ✉️ sonaliayash@gmail.com</samp>
-
+<p align="center">
+  <samp>🤙🏼 +91 704-402-0012 • ✉️ sonaliayash@gmail.com</samp>
+</p>
 
