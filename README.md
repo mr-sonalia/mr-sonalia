@@ -14,7 +14,7 @@ Hi, I'm Yash! 👋
 I am a full-stack engineer and tech lead at a fast-paced startup, with 1+ years of experience in Next.js, Typescript, Node.js, Microservices, AWS, and more!🔥
 
 
-Being a nerd, I can be found binging through Netflix, playing games, or scrolling through memes. As a laziness enthusiast, I always prefer staying home.💆🏼‍♂️
+Being a nerd, I can be found binging through Netflix, playing games, or scrolling through memes. As a laziness enthusiast, I always stay at home.💆🏼‍♂️
 
 
 .
