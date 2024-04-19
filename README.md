@@ -16,6 +16,12 @@ I am a full-stack engineer and tech lead at a fast-paced startup, with 1+ years 
 
 Being a nerd, I can be found binging through Netflix, playing games, or scrolling through memes. As a laziness enthusiast, I always prefer staying home.💆🏼‍♂️
 
+
+.
+.
+.
+
+
 PS: Read my resume to know more.
 
 ![TonyStarkIronManGIF](https://github.com/mr-sonalia/mr-sonalia/assets/53109900/f5084a9c-ee4d-4021-8d75-6d1e468803a4)
