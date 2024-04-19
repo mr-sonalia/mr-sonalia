@@ -20,7 +20,7 @@ Being a nerd, I can be found binging through Netflix, playing games, or scrollin
 • • •
 
 
-PS: Read my resume  and discover some magic in your life. ✨
+PS: Read my resume to discover some magic in your life. ✨
 
 ![TonyStarkIronManGIF](https://github.com/mr-sonalia/mr-sonalia/assets/53109900/f5084a9c-ee4d-4021-8d75-6d1e468803a4)
 
