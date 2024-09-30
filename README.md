@@ -10,7 +10,7 @@
 
 Hi, I'm Yash! 👋
 
-A full-stack engineer at a fast-paced startup, with ~2 years of software engineering and leadership experience in Next.js, Typescript, Node.js, Microservices, AWS, and more!🔥
+A full-stack engineer at a fast-paced startup, with 2 years of software engineering and leadership experience in Next.js, Typescript, Node.js, Microservices, AWS, and more!🔥
 
 
 Being a nerd, I can be found binging through Netflix, playing games, or scrolling through memes. As a laziness enthusiast, I always stay at home.💆🏼‍♂️
