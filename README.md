@@ -19,11 +19,10 @@ Being a nerd, I can be found binging through Netflix, playing games, or scrollin
 • • •
 
 
-PS: Read <a href="https://docs.google.com/document/d/1tlF579BJ-1orBawwig7kHkgoyvqzgvFix_B0W1duP8Q/edit?usp=sharing">my resume</a> to discover some magic in your life. ✨
+PS: Read <a href="https://docs.google.com/document/d/1k-V510AUZM6Tck6Lth6J4_L1eAChqUqmt7tlpy7si6E/edit?usp=sharing">my resume</a> to discover some magic in your life. ✨
 
 ![TonyStarkIronManGIF](https://github.com/mr-sonalia/mr-sonalia/assets/53109900/f5084a9c-ee4d-4021-8d75-6d1e468803a4)
 
 <p align="center">
   <samp>🤙🏼 +91 704-402-0012 • ✉️ sonaliayash@gmail.com</samp>
 </p>
-
