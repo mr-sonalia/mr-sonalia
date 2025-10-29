@@ -2,7 +2,8 @@
   <samp>
 <!--     <a href="https://docs.google.com/document/d/1tlF579BJ-1orBawwig7kHkgoyvqzgvFix_B0W1duP8Q/edit?usp=sharing">resume</a> • -->
     <a href="https://sonaliayash.in">portfolio</a> •
-    <a href="https://www.linkedin.com/in/yash-sonalia">linkedin</a>
+    <a href="https://www.linkedin.com/in/yash-sonalia">linkedin</a> •
+   <a href="https://docs.google.com/document/d/1MIelFdnQQho_2_WcLei22meWXWBv09wVleCV5dJmUz0/edit?usp=sharing">resume</a>
   </samp>
 </p>
 
